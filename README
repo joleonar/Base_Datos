@@ -1,3 +1,11 @@
-Este es una pruebna que estoy haciendo
+## Repositorio para manejo de base de datos
+El objetivo de proyecto es crear programas en R que integraran diferentes bases de datos  en una sola
+Las bases de datos que se integraran para el periodo 1981-1989 son:
+* FUNVISIS
+* IRIS
+* ISC
+* NEIC-PDE
+* Centennial
 
+Esta es mi primer apliacion hecha para github
 
